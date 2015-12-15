@@ -1,8 +1,0 @@
-
-    define('lodash', function() {return _; });
-    define('angular', function() { return angular; });
-    define('error-stack-parser', function() { return ESP; });
-
-    return require('index');
-
-}));
